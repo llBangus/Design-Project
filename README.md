@@ -2,6 +2,9 @@
 
 Please see the attached file, for the mobile application only for android user only has a TAGGED " APK ". 
 
+
+!!!Download first!!!
+
 For the device the name of the file is "maingui(2).py
 Please take note that you need to change the file name into 
 maingui.py just incase it doesn't run. 
